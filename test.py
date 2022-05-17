@@ -5,6 +5,7 @@ from boggle import Boggle
 
 
 class FlaskTests(TestCase):
+
     def setUp(self):
         """Stuff to do before every test."""
 
